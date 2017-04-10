@@ -484,5 +484,8 @@ var Hello = function () {
 
 exports.default = Hello;
 
+
+Hello.enthralerSchema = 'components/templates/hello-world-schema.json';
+
 /***/ })
 /******/ ])});;

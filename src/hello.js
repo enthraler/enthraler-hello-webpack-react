@@ -19,3 +19,5 @@ export default class Hello {
     }
 
 }
+
+Hello.enthralerSchema = 'components/templates/hello-world-schema.json';
